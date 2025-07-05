@@ -1,7 +1,7 @@
 {
     "name": "music",
     "version": "1.0.0",
-    "description": "A Discord bot with DisTube and slash commands.",
+    "description": "Stereo (beta)",
     "main": "src/index.js",
     "scripts": {
         "start": "node src/index.js"
